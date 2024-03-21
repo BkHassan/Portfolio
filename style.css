@@ -4,7 +4,9 @@ body,
   scroll-behavior: smooth !important;
   /* background-color: tomato; */
 }
-
+#technologies{
+  display: flex;
+}
 .nav {
   position: fixed;
   z-index: 50;
