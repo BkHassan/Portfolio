@@ -65,6 +65,7 @@ form.contact-form :placeholder {
 #card,
 #card2,
 #card3,
+#card4,
 #img,
 #img2,
 #img3 {
@@ -73,6 +74,7 @@ form.contact-form :placeholder {
   border-color: black;
   border-radius: 2%;
 }
+
 
 #exampleInput90,
 #exampleInput91,
@@ -141,7 +143,7 @@ form.contact-form :placeholder {
 #description,
 #description2,
 #description3 {
-  color: darkmagenta;
+  color: white;
 }
 
 #name,
